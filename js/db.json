@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Саша",
+      "surname": "Валештайн",
+      "age": "19",
+      "town": "Киев",
+      "telephone": "+391842421",
+      "price": "150",
+      "what_sells": "Часы"
+    },
+    {
+      "id": 11,
+      "name": "Саша",
+      "surname": "Валештайн",
+      "age": "19",
+      "town": "Киев",
+      "telephone": "+391842421",
+      "price": "150",
+      "what_sells": "Часы"
+    },
+    {
+      "id": 2,
+      "name": "Коля",
+      "surname": "Боратун",
+      "age": "32",
+      "town": "Киев",
+      "telephone": "+39422421",
+      "price": "240",
+      "what_sells": "Штаны"
+    },
+    {
+      "id": 3,
+      "name": "Вася",
+      "surname": "Оооау",
+      "age": "22",
+      "town": "Киев",
+      "telephone": "+394242421",
+      "price": "711",
+      "what_sells": "Кольцо"
+    },
+    {
+      "id": 4,
+      "name": "Аня",
+      "surname": "Викадний",
+      "age": "20",
+      "town": "Киев",
+      "telephone": "+392421",
+      "price": "40",
+      "what_sells": "Клавиатура"
+    },
+    {
+      "id": 5,
+      "name": "Петрович",
+      "surname": "Пупкин",
+      "age": "25",
+      "town": "Киев",
+      "telephone": "+3223421",
+      "price": "190",
+      "what_sells": "Телефон"
+    }
+  ]
+}
